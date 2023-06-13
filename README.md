@@ -2,12 +2,13 @@
 # Hello everyone! 👋
 I'm **Graziano** and I ❤ to code and learn new stuff 👨🏻‍💻 
 
-## 🚀 About Me
-I'm a passionate Python developer and Machine Learning Engineer.
+I'm a passionate Python developer focussed on Machine (Deep) Learning, Data Science and MLOps. I have worked in the domain of Computer Vision and Time Series Forecasting.
+
+👨🏻‍💻 Currently im working as **Machine Learning Engineer** at [Tuidi](https://www.tuidi.it/).
 
 I believe in Free and Open Source Software and I'm always looking to contribute to interesting projects!
 
-👨🏻‍💻 Currently im working as **Machine Learning Engineer** at [Tuidi](https://www.tuidi.it/).
+
 
 
 ## 🔗 Links
@@ -17,6 +18,6 @@ I believe in Free and Open Source Software and I'm always looking to contribute 
 #
 
 
-[![contributions](https://github-readme-stats.vercel.app/api?username=montanarograziano&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[]([![contributions](https://github-readme-stats.vercel.app/api?username=montanarograziano&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats&theme=radical))
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montanarograziano&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montanarograziano&theme=dracula)
