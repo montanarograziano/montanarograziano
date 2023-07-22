@@ -12,7 +12,7 @@ I believe in Free and Open Source Software and I'm always looking to contribute 
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://katherineoelsner.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://montanarograziano.github.io)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/graziano-montanaro-05255317a/)
 [![scholar](https://img.shields.io/badge/-Google%20Scholar-red?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=it&authuser=2&user=lpNu0JwAAAAJ)
 #
