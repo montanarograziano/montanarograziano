@@ -18,6 +18,6 @@ I believe in Free and Open Source Software and I'm always looking to contribute 
 #
 
 
-[]([![contributions](https://github-readme-stats.vercel.app/api?username=montanarograziano&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats&theme=radical))
+![contributions](https://github-readme-stats.vercel.app/api?username=montanarograziano&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montanarograziano&theme=dracula)
