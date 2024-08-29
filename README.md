@@ -4,7 +4,7 @@ I'm **Graziano** and I ❤ to code and learn new stuff 👨🏻‍💻
 
 I'm a passionate Python developer focussed on Machine (Deep) Learning, Data Science and MLOps. I have worked in the domain of Computer Vision and Time Series Forecasting.
 
-👨🏻‍💻 Currently im working as **Machine Learning Engineer** at [Tuidi](https://www.tuidi.it/).
+👨🏻‍💻 Currently im working as **Machine Learning Engineer** at [Intella](https://www.intella.tech/).
 
 I believe in Free and Open Source Software and I'm always looking to contribute to interesting projects!
 
