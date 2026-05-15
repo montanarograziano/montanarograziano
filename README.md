@@ -17,6 +17,6 @@ I believe in Free and Open Source Software and I'm always looking to contribute 
 [![scholar](https://img.shields.io/badge/-Google%20Scholar-red?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=it&authuser=2&user=lpNu0JwAAAAJ)
 #
 
-![](https://github-profile-summary-cards.vercel.app/api/repos/montanarograziano?theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=montanarograziano&theme=dracula)
 
-![](https://github-profile-summary-cards.vercel.app/api/top-lang/montanarograziano?theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=montanarograziano&theme=dracula)
